@@ -7,7 +7,7 @@ provisioner:
   data_path: test/shared
 
 platforms:
-  - name: centos-6.5
+  - name: centos-6.8
 
 suites:
   - name: default
